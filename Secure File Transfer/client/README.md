@@ -15,7 +15,7 @@ This client is part of a complete **Secure File Transfer System**.
 
 ---
 
-## 🖼️ Interface Snapshot (Optional)
-*You can add a screenshot here:*
+## 🖼️ Interface Snapshot
 ```markdown
-![Client GUI](../assets/client_gui.png)
+<img width="616" height="242" alt="image" src="https://github.com/user-attachments/assets/22f4af95-4e07-4249-b3b7-d095756f7d69" />
+
