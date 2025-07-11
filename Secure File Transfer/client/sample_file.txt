@@ -1,0 +1,3 @@
+Hello, this is a test file!
+This message will be encrypted and sent to the server.
+HELLLLLLLLLLLLLLLLLLO
